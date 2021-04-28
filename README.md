@@ -1,5 +1,6 @@
 # MyTodo App
-
+<img src='./public/Readme/login.png'>
+<img src='./public/Readme/lembretes.png'>
 MyTodo é um site onde você pode se cadastrar e adicionar, editar , ou excluir lembretes para suas atividades.
 
 # Instalação
