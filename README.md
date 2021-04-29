@@ -24,7 +24,7 @@ yarn dev
 
 
 
-# Tecnologias Utiliadas
+# Tecnologias Utilizadas
 <a href='https://nextjs.org/'>
 <img src='https://cdn.worldvectorlogo.com/logos/next-js.svg' width='40'>
 </a>
